@@ -82,7 +82,7 @@ page-mathjax: false
 friends:
   [
     { title: "北京交通大学", href: "https://en.bjtu.edu.cn/" },
-    { title: "BJTU计算机学院", href: "https://ebnbin.dev/" },
-    { title: "BJTU综合实验室", href: "http://kunq.me" },
+    { title: "BJTU计算机学院课程平台", href: "https://citel.bjtu.edu.cn/mlsv3/login/index.php" },
+    { title: "BJTU计算机综合实验室", href: "http://citlab.bjtu.edu.cn/" },
    
   ]
