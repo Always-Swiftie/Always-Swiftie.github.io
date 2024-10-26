@@ -10,15 +10,15 @@ header-img: "img/bg-little-universe.jpg"
 
 <!-- Main Content -->
 <div class="container">
-	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-			<h2>课程作业下载</h2>
-			<!-- 文件下载链接 -->
-			<ul>
-				<li><a href="path/to/file1.pdf" download="file1.pdf">下载文件1</a></li>
-				<li><a href="path/to/file2.pdf" download="file2.pdf">下载文件2</a></li>
-				<li><a href="path/to/file3.pdf" download="file3.pdf">下载文件3</a></li>
-			</ul>
-		</div>
-	</div>
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <h2>课程作业下载</h2>
+            <!-- 文件下载链接 -->
+            <ul>
+                <li><a href="{{ '/docs/网络的未来.docx' | prepend: site.baseurl }}" download="网络的未来.docx">论文-网络的未来</a></li>
+                <li><a href="{{ '/docs/收支表.xlsx' | prepend: site.baseurl }}" download="收支表.xlsx">大学生活收支表</a></li>
+                <li><a href="{{ '/docs/东莞市介绍.rar' | prepend: site.baseurl }}" download="东莞市介绍.rar">我的家乡-东莞</a></li>
+            </ul>
+        </div>
+    </div>
 </div>
