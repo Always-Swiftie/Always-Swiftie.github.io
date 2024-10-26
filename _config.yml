@@ -81,7 +81,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "北京交通大学", href: "http://mida.re/" },
+    { title: "北京交通大学", href: "https://en.bjtu.edu.cn/" },
     { title: "BJTU计算机学院", href: "https://ebnbin.dev/" },
     { title: "BJTU综合实验室", href: "http://kunq.me" },
    
