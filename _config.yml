@@ -60,9 +60,8 @@ kramdown:
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: 北京交通大学计算机科学与技术 2401班 在读
-sidebar-avatar: https://github.com/Always-Swiftie/Always-Swiftie.github.io/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241026123656.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
-
+sidebar-about-description: "北京交通大学计算机科学与技术 2401班 在读"
+sidebar-avatar: 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
 featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
