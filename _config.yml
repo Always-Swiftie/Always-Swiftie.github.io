@@ -2,7 +2,7 @@
 title: Anthony Blog
 SEOTitle: 李宏骏的主页 |Blog
 header-img: img/home-bg.jpg
-email: 24281009@bjtu.edu.cn
+email: "24281009@bjtu.edu.cn"
 description: "这里是 @Anthony 李宏骏的个人博客，与你一起发现更大的世界——"
 keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://huangxuan.me" # your host, for absolute URL
